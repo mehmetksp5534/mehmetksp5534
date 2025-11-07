@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Mehmet Emin  
+🎮 Unity Developer (in progress) | 💻 C# & Web Learner | 🚗 Car Enthusiast  
 
-<!--
-**mehmetksp5534/mehmetksp5534** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 15-year-old student from Türkiye who loves creating things — especially games.  
+I mainly develop 3D projects in **Unity** using **Visual Studio 2022**,  
+and I experiment with smaller projects in **Visual Studio Code**.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I’m Learning  
+- **C#** (currently improving my knowledge)  
+- **HTML** & **CSS** (beginner level)  
+- A little bit of **Python** — I can read most code but still learning syntax  
+- How to use **Git & GitHub** for version control  
+
+---
+
+### 🛠️ Tools I Use  
+- Unity 3D  
+- Visual Studio 2022 / Visual Studio Code  
+- Git  
+- Blender (for simple 3D edits)
+
+---
+
+### 🎯 Goals  
+- Publish my first Unity game **SkyRushing** on Steam  
+- Improve my programming & design skills  
+- Keep learning every day  
+- (And yes...) own a **BMW** someday 🚘  
+
+---
+
+### 📫 Contact  
+📷 Instagram: [@mehmet_ksp55](https://www.instagram.com/mehmet_ksp55)  
+
+---
