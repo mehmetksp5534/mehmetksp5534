@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Mehmet Emin  
-🎮 Unity Developer (in progress) | 💻 C# & Web Learner | 🚗 Car Enthusiast  
+🎮 Unity Developer (in progress) | 💻 C# & Web Learner | 🪄 AI Tools / Vibe Coding | 🚗 Car Enthusiast  
 
 I'm a 15-year-old student from Türkiye who loves creating things — especially games.  
 I mainly develop 3D projects in **Unity** using **Visual Studio 2022**,  
-and I experiment with smaller projects in **Visual Studio Code**.  
+experiment with smaller projects in **Visual Studio Code**,  
+and sometimes use **AI tools** for vibe coding experiments. 
 
 ---
 
@@ -11,7 +12,8 @@ and I experiment with smaller projects in **Visual Studio Code**.
 - **C#** (currently improving my knowledge)  
 - **HTML** & **CSS** (beginner level)  
 - A little bit of **Python** — I can read most code but still learning syntax  
-- How to use **Git & GitHub** for version control  
+- How to use **Git & GitHub** for version control
+- **AI tools** for vibe coding
 
 ---
 
@@ -20,6 +22,7 @@ and I experiment with smaller projects in **Visual Studio Code**.
 - Visual Studio 2022 / Visual Studio Code  
 - Git  
 - Blender (for simple 3D edits)
+- AI Tools for vibe coding
 
 ---
 
